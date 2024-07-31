@@ -1,0 +1,45 @@
+body {
+  background-color: #222;
+  font-family: "MinecraftiaRegular";
+}
+  
+.container {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+  
+.player-box {
+  background-color: #2c2c2c;
+  border-radius: 10px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 600px;
+}
+
+.search {
+  align-items: center;
+  justify-content: center;
+  font-family: "MinecraftiaRegular";
+  background-color: #2e2e2e;
+}
+
+.search-box {
+  border-radius: 10px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 600px;
+  align-items: center;
+  justify-content: center;
+  background-color: #2c2c2c;
+  margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, p, span {
+  color: white;
+}
+
+.head {
+  float: right;
+}
